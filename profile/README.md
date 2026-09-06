@@ -5,8 +5,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icon-animated-reversed.svg">
-    <img alt="" src="assets/icon-animated-light.svg" width="160">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icon-cycle-reversed.svg>
+    <img alt="" src="assets/icon-cycle-reversed.svg" width="160">
   </picture>
 </p>
 
